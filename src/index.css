@@ -1,0 +1,25 @@
+body {
+  background-color: #f1f1f1;
+}
+
+h1, h3 {
+  color: #2d3436;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+.card-title {
+  color: #2d3436;
+}
+
+.btn-primary {
+  background-color: #00aaff;
+  border-color: #00aaff;
+}
+
+.btn-primary:hover {
+  background-color: #0077cc;
+  border-color: #0077cc;
+}
